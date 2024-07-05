@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>name</key>
-    <string>Kanagawa</string>
+    <string>Kanagawa Wave</string>
     <key>settings</key>
     <array>
       <dict>
@@ -131,7 +131,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E46876</string>
+          <string>#957FB8</string>
         </dict>
       </dict>
       <dict>
@@ -288,7 +288,7 @@
           <key>fontStyle</key>
           <string/>
           <key>foreground</key>
-          <string>#FF5D62</string>
+          <string>#E82424</string>
         </dict>
       </dict>
       <dict>
@@ -354,7 +354,7 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#49443C</string>
+          <string>#252535</string>
         </dict>
       </dict>
       <dict>
@@ -436,7 +436,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E6C384</string>
+          <string>#C0A36E</string>
         </dict>
       </dict>
     </array>
