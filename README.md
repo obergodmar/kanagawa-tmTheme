@@ -1,5 +1,8 @@
 # Kanagawa
 
+> .tmTheme files in this repo were auto-generated.
+Check the PR for more details: https://github.com/rebelot/kanagawa.nvim/pull/231.
+
 Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.\
 Colors are taken from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)
 
