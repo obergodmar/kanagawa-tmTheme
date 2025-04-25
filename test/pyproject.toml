@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "example-project"
+version = "0.1.0"
+description = "TOML-file example"
+authors = ["Author <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.25.1"

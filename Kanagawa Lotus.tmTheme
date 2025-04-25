@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>semanticClass</key>
-    <string>theme.kanagawa.wave</string>
+    <string>theme.kanagawa.lotus</string>
     <key>settings</key>
     <array>
       <dict>
@@ -31,7 +31,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E6C384</string>
+          <string>#77713f</string>
         </dict>
         <key>name</key>
         <string>Identifier</string>
@@ -42,7 +42,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#D27E99</string>
+          <string>#b35b79</string>
         </dict>
         <key>name</key>
         <string>Number</string>
@@ -53,7 +53,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#957FB8</string>
+          <string>#624c83</string>
         </dict>
         <key>name</key>
         <string>Statement</string>
@@ -64,7 +64,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#7E9CD8</string>
+          <string>#4d699b</string>
         </dict>
         <key>name</key>
         <string>HtmlTag</string>
@@ -75,7 +75,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E6C384</string>
+          <string>#77713f</string>
         </dict>
         <key>name</key>
         <string>HtmlAttribute</string>
@@ -86,7 +86,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#727169</string>
+          <string>#8a8980</string>
         </dict>
         <key>name</key>
         <string>Comment</string>
@@ -97,7 +97,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#957FB8</string>
+          <string>#624c83</string>
         </dict>
         <key>name</key>
         <string>Keyword</string>
@@ -108,7 +108,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#FFA066</string>
+          <string>#cc6d00</string>
         </dict>
         <key>name</key>
         <string>Boolean</string>
@@ -119,7 +119,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#7E9CD8</string>
+          <string>#4d699b</string>
         </dict>
         <key>name</key>
         <string>Function</string>
@@ -130,7 +130,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E6C384</string>
+          <string>#77713f</string>
         </dict>
         <key>name</key>
         <string>Attribute</string>
@@ -141,7 +141,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#7E9CD8</string>
+          <string>#4d699b</string>
         </dict>
         <key>name</key>
         <string>Tag</string>
@@ -152,7 +152,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#7FB4CA</string>
+          <string>#6693bf</string>
         </dict>
         <key>name</key>
         <string>Special</string>
@@ -163,7 +163,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#7AA89F</string>
+          <string>#597b75</string>
         </dict>
         <key>name</key>
         <string>Type</string>
@@ -174,7 +174,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#FFA066</string>
+          <string>#cc6d00</string>
         </dict>
         <key>name</key>
         <string>Constant</string>
@@ -185,7 +185,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#98BB6C</string>
+          <string>#6f894e</string>
         </dict>
         <key>name</key>
         <string>String</string>
@@ -196,7 +196,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#C0A36E</string>
+          <string>#836f4a</string>
         </dict>
         <key>name</key>
         <string>Operator</string>
@@ -205,10 +205,10 @@
       </dict>
     </array>
     <key>uuid</key>
-    <string>4b125ec99a74470517f9f51ac1a70eafa3db</string>
+    <string>6013de0381f648b7f21518885c02b40b7583</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>name</key>
-    <string>Kanagawa Wave</string>
+    <string>Kanagawa Lotus</string>
   </dict>
 </plist>

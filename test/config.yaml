@@ -1,0 +1,6 @@
+name: Example
+version: 1.0.0
+dependencies:
+  - name: example-lib
+    version: "2.3.4"
+    enabled: true
